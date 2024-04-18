@@ -22,7 +22,7 @@ Check out the live demo [here](#) (Add the link to your live demo).
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/edusity.git`
+1. Clone the repository: `git clone https://github.com/Muhammadirees/edusity.git`
 2. Install dependencies: `npm install`
 3. Start the server: `npm start`
 
