@@ -1,6 +1,6 @@
 # Edusity
 
-![Edusity Logo](https://example.com/edusity-logo.png)
+![Edusity Logo](https://github.com/Muhammadirees/edusity/blob/master/src/assets/website-preview.png)
 
 Edusity is a comprehensive website developed for universities, designed to showcase courses, facilitate student interaction, and share educational resources. The platform offers a user-friendly interface and robust functionality to enhance the educational experience.
 
