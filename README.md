@@ -24,13 +24,13 @@ Check out the live demo [here](#) (Add the link to your live demo).
 
 1. Clone the repository: `git clone https://github.com/Muhammadirees/edusity.git`
 2. Install dependencies: `npm install`
-3. Start the server: `npm start`
+3. Start the server: `npm run dev`
 
 ## Usage
 
 1. Navigate to the project directory.
-2. Run the server: `npm start`
-3. Access the website through your browser at `http://localhost:3000`
+2. Run the server: `npm run dev`
+3. Access the website through your browser at `http://localhost:5173`
 
 ## Contribution
 
